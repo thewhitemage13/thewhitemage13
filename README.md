@@ -41,7 +41,13 @@
 
 </td><td valign="top" width="33%">
 
+### Frameworks  
+<div align="center">  
+<a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/hibernate-icon-1965x2048-cl94vxbt.png" alt="Hibernate" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://banner2.cleanpng.com/20180812/owt/kisspng-spring-framework-software-framework-java-applicati-brian-scott-russell-5b6febc976ed74.1863036315340615134871.jpg" alt="Spring Framework" height="50" /></a>  
+</div>
 
+</td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
