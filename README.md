@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mukhammad👋, an aspiring Software Developer👨‍💻</div>  
+### <div align="center">I'm Mukhammed👋, an aspiring Software Developer👨‍💻</div>  
   
 
 - 🧑‍🎓Student at IT STEP Academy  
