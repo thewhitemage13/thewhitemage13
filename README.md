@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mukhammed👋, an aspiring Software Developer👨‍💻</div>  
   
 
-Motivated Java Developer with hands-on experience in developing and architecting web applications using microservice architecture. Proficient in Java and Spring Framework, with a strong understanding of database management, cloud storage integration, and system scalability. Demonstrated expertise in implementing design patterns, S.O.L.I.D. principles, and secure data validation. Skilled in managing distributed systems and ensuring high performance and reliability through technologies like Kafka and Amazon S3.
+Motivated and fast-learning Java Developer specializing in microservices and web application development with a strong foundation in object-oriented programming and design patterns. Proficient in Java, Spring Framework, and database management. Demonstrated expertise through hands-on implementation of scalable, efficient, and reliable applications. Actively enhancing skills and contributing to open-source projects. Completed a C++ OOP course with honors, demonstrating a solid grasp of OOP, design patterns, and S.O.L.I.D. principles. Open to remote work or relocation across Europe and seeking collaborative, growth-oriented opportunities.
   
 
 <br/>  
